@@ -7,7 +7,7 @@
   "tokenWindow": "Nv_10-Dc15",
   "notify": "https://khelmela-svc-611661370769.asia-south1.run.app",
   "transaction_server": "https://transaction-svc-611661370769.asia-south1.run.app",
-  "game_server": "https://game-services-svc-611661370769.asia-south1.run.app",
+  "game_server": "https://game-services-svc-611661370769.asia-south1.run",
   "KF1": "https://khelmela-web-view.vercel.app",
   "KF2": "https://khelmela-web-view.vercel.app",
   "KF3": "https://khelmela-web-view.vercel.app",

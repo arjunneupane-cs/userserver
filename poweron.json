@@ -1,1 +1,21 @@
-{"baseUrl":"https://khelmela-svc-611661370769zrvy.asia-south1.run.app","nsp": "700","latestVersion": "3.7.6","latestBuildNumber": "76",  "status":"200" ,"tokenWindow" : "Nv_10-Dc15" , "notify":"https://khelmela-svc-611661370769.asia-south1.run.app" , "transaction_server":"https://transaction-svc-611661370769.asia-south1.run.app" , "game_server":"https://game-services-svc-611661370769.asia-south1.run.app"}
+{
+  "baseUrl": "https://khelmela-svc-611661370769.asia-south1.run.app",
+  "nsp": "200",
+  "latestVersion": "3.8.5",
+  "latestBuildNumber": "85",
+  "status": "200",
+  "tokenWindow": "Nv_10-Dc15",
+  "notify": "https://khelmela-svc-611661370769.asia-south1.run.app",
+  "transaction_server": "https://transaction-svc-611661370769.asia-south1.run.app",
+  "game_server": "https://game-services-svc-611661370769.asia-south1.run.app",
+  "test_mode": "false",
+  "topup_active": "false",
+  "test_url": "https://test-kh-pi.vercel.app", 
+
+  "KF1": "http://192.168.56.1:5173",
+  "KF2": "http://192.168.56.1:5173",
+  "KF3": "http://192.168.56.1:5173",
+  "KF4": "http://192.168.56.1:5173",
+  "KF5": "http://192.168.56.1:5173",
+  "KF6": "http://192.168.56.1:5173"
+}
